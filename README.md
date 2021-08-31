@@ -1,0 +1,2 @@
+- Estudante.
+- Cursando Ciência da Computação.
